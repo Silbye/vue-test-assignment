@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkmanga_test_page"]=self["webpackChunkmanga_test_page"]||[]).push([[735],{735:function(e,r,a){a.r(r),a.d(r,{default:function(){return d}});var n=a(3396);const s={class:"error-page"},t=(0,n._)("div",{class:"container"},[(0,n._)("div",{class:"error-message"}," Error - the requested page was not found :( ")],-1),c=[t];function o(e,r,a,t,o,u){return(0,n.wg)(),(0,n.iD)("div",s,c)}var u={name:"ErrorPage"},g=a(89);const i=(0,g.Z)(u,[["render",o]]);var d=i}}]);
+//# sourceMappingURL=735.63ea8e1e.js.map
